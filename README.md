@@ -9,4 +9,4 @@ Permute Squeeze-and-Excitation (PSE) module is designed to independently capture
 ## 🚧 More Information and Convenience is Coming ...
 [2024.10.7] Our paper is accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control).
 
-[2024.10.6] Poster our paper in Reseach Gate.
+[2024.10.6] Poster our preprint paper in Reseach Gate.
